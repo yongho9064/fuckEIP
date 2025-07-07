@@ -1,4 +1,3 @@
-# 6. 기타용어
 ### 인터페이스 구현 기술 - 1회 (2020 1회차)
 * `XML(Xtensible Markup Language)*`
   * HTML 문법의 비호환성과 SGML의 복잡성 해결하기 위해 개발
